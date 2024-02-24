@@ -4,18 +4,20 @@
 
 <h2>Technologies</h2>
 <div align="center">
-<b>Database</b> 
+<b>Database</b>
+  
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-<b>Web Development</b> 
+<b>Web Development</b>
+  
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
 
 <b>Object-Oriented Programming</b>
-
+  
 <img src="https://skillicons.dev/icons?i=cs"/>
 
-<b>Othe</b>
-
+<b>Other</b>
+  
 <img src="https://skillicons.dev/icons?i=java"/>
 
 
