@@ -1,9 +1,18 @@
 <h1 align="center">I love busting nuts ✨</h1>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight&fill=#ffffff)
+
 
 <br>
 <h1>Technologies 🛠</h1>
+<details>
+ 
+<summary><b>Stats</b></summary>
+<div align="center">
+
+<h3 align="left">Languages and Tools:</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight&fill=#ffffff)
+</details>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
