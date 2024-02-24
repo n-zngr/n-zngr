@@ -12,8 +12,7 @@
     </div>
 
 <b>Web Development</b>
-
-![](https://skillicons.dev/icons?i=html,css,js,nodejs)
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
 
 
 **Object-Oriented Programming**
