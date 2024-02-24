@@ -7,15 +7,14 @@
 <div>
   <details open>
   <summary><h4>Database</h4></summary>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>;
   </details>
   <details open>
     <summary><h4>Web Development</h4></summary>
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
   </details>
 </div>
-
 <br><br>
  <h3>Statistics</h3><br>
 <div align="center">
