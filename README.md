@@ -8,7 +8,7 @@
  
 <summary><b>Stats</b></summary>
 <div align="center">
-
+<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight&fill=#ffffff)
 </details>
 
