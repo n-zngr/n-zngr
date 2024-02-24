@@ -11,7 +11,7 @@
   
   <b>Web Development</b>
     
-  <img height="26px" width="27px" src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
+  <img height="26px" src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
   
   <b>Object-Oriented Programming</b>
     
