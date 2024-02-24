@@ -5,16 +5,10 @@
 <h2>Technologies</h2>
 <b>Database</b>
 <img src="https://skillicons.dev/icons?i=mysql"/>
-    <div class="container" align="center" display="flex">
-        <div class="column">
-            <h2>Column 1</h2>
-            <p>Data 1</p>
-            <p>Data 3</p>
-        </div>
-        <div class="column">
-            <h2>Column 2</h2>
-            <p>Data 2</p>
-            <p>Data 4</p>
+    <div class="container" align="center">
+            <h2>Column 1</h2><h2>Column 2</h2>
+            <p>Data 1</p><p>Data 2</p>
+            <p>Data 3</p><p>Data 4</p>
         </div>
     </div>
 
