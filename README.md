@@ -4,16 +4,14 @@
 
 <br>
 <h3>Technologies</h3><br>
-<div>
-  <details open>
-  <summary><h4>Database</h4></summary>
-    <img src="https://skillicons.dev/icons?i=mysql"/>
-  </details>
-  <details open>
-    <summary><h4>Web Development</h4></summary>
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
-  </details>
-</div>
+<details open>
+<summary><h4>Database</h4></summary>
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+</details>
+<details open>
+  <summary><h4>Web Development</h4></summary>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
+</details>
 <br><br>
  <h3>Statistics</h3><br>
 <div align="center">
