@@ -1,8 +1,10 @@
 <h1 align="center">I love busting nuts ✨</h1>
 <br>
-<h2>Technologies</h2>
+## Technologies
 **Database**
 <img src="https://skillicons.dev/icons?i=mysql"/>
+
+![](https://skillicons.dev/icons?i=mysql)
 <br>
 <h3>Web Development</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
