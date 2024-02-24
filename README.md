@@ -3,6 +3,14 @@
 
 
 <h2>Technologies</h2>
+
+|      Icon ID       |                         Icon                          |
+| :----------------: | :---------------------------------------------------: |
+|     `ableton`      |    <img src="./icons/Ableton-Dark.svg" width="48">    |
+|   `activitypub`    |  <img src="./icons/ActivityPub-Dark.svg" width="48">  |
+|      `actix`       |     <img src="./icons/Actix-Dark.svg" width="48">     |
+
+
 <div align="center">
   
   <b>Database</b>
