@@ -17,6 +17,10 @@
 
 ![](https://skillicons.dev/icons?i=cs)
 
+**Other**
+
+![](https://skillicons.dev/icons?i=java)
+
 ## Statistics
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight"/>
