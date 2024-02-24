@@ -9,5 +9,5 @@
 <br>
  <h2>Statistics</h2><br>
 <div align="center">
-<img src="(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight)"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight"/>
 </div>
