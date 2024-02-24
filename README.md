@@ -4,14 +4,17 @@
 
 ## Technologies  
 **Database**
+
 ![](https://skillicons.dev/icons?i=mysql) <br><br>
 
 
 **Web Development**
+
 ![](https://skillicons.dev/icons?i=html,css,js,nodejs)
 
 
 **Object-Oriented Programming**
+
 ![](https://skillicons.dev/icons?i=html,css,js,nodejs)
 
 ## Statistics
