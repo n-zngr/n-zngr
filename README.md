@@ -5,7 +5,7 @@
 <h2>Technologies</h2>
 <b>Database</b>
 <img src="https://skillicons.dev/icons?i=mysql"/>
-    <div class="container" align="center">
+    <div class="container" align="center" display="flex">
         <div class="column">
             <h2>Column 1</h2>
             <p>Data 1</p>
