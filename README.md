@@ -9,7 +9,6 @@
             <h2>Column 1</h2><h2>Column 2</h2>
             <p>Data 1</p><p>Data 2</p>
             <p>Data 3</p><p>Data 4</p>
-        </div>
     </div>
 
 <b>Web Development</b>
