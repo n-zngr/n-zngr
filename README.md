@@ -5,10 +5,6 @@
 <br>
 <h3>Technologies</h3><br>
 <div>
-
-
-<h3>WebDevelopment</h4>
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
   <details open>
   <summary><h4>Database</h4></summary>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
