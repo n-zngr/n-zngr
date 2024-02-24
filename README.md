@@ -6,7 +6,7 @@
 
 | `Web Development` | `Object-Oriented Programming` | `Database` | `Other` |
 | -- | -- | -- | -- |
-|<img src="https://skillicons.dev/icons?i=html" height="48"/>|<img src="./icons/Ableton-Dark.svg" width="48">|test | test |
+|<img src="https://skillicons.dev/icons?i=html" align="center" height="48"/>|<img src="./icons/Ableton-Dark.svg" width="48">|test | test |
 |<img src="https://skillicons.dev/icons?i=css" height="48"/>|<img src="./icons/ActivityPub-Dark.svg" width="48">| Test| test |
 |<img src="https://skillicons.dev/icons?i=js" height="48"/>|<img src="https://skillicons.dev/icons?i=cs" height="48"/>|test | test |
 
