@@ -4,8 +4,8 @@
 
 <h2>Technologies</h2>
 
-|      Icon ID       |                         Icon                          | test|
-| :----------------: | :---------------------------------------------------: |:----------------: |
+| Web Development | Object-Oriented Programming | Database | Other |
+| -- | :-: | :-: |
 |     `ableton`      |<img src="./icons/Ableton-Dark.svg" width="48">|test |
 |   `activitypub`    |<img src="./icons/ActivityPub-Dark.svg" width="48">| Test|
 |      `actix`       |<img src="https://skillicons.dev/icons?i=cs" height="48"/>|test |
