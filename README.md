@@ -2,21 +2,25 @@
 <br>
 
 
-<h2 align="center">Technologies</h2>
+<h2>Technologies</h2>
+<div align="center">
 <b>Database</b>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
 <b>Web Development</b>
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
 
+<b>Object-Oriented Programming</b>
 
-**Object-Oriented Programming**
+<img src="https://skillicons.dev/icons?i=cs"/>
 
-![](https://skillicons.dev/icons?i=cs)
+<b>Othe</b>
 
-**Other**
+<img src="https://skillicons.dev/icons?i=java"/>
 
-![](https://skillicons.dev/icons?i=java)
+
+</div>
+
 
 ## Statistics
 <div align="center">
