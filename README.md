@@ -1,7 +1,7 @@
 <h1 align="center">I love busting nuts ✨</h1>
 
 
-## Technologies
+## Technologies \n
 **Database**
 ![](https://skillicons.dev/icons?i=mysql)
 <br>
