@@ -4,11 +4,10 @@
 
 <h2>Technologies</h2>  
 <b>Database</b>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-<img src="https://skillicons.dev/icons?i=mysql"/> <br><br>
 
-
-**Web Development**
+<b>Web Development</b>
 
 ![](https://skillicons.dev/icons?i=html,css,js,nodejs)
 
