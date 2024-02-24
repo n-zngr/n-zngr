@@ -6,7 +6,7 @@
 <h1>Technologies 🛠</h1>
 <details>
  
-<summary><b>Stats</b></summary>
+<summary><h2>Statistics</h2></summary>
 <div align="center">
 <br>
 
