@@ -7,6 +7,7 @@
 
 ![](https://skillicons.dev/icons?i=mysql)
 
+
 **Web Development**
 
 ![](https://skillicons.dev/icons?i=html,css,js,nodejs)
