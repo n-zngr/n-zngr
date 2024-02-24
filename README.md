@@ -1,2 +1,3 @@
 <h1 id="header" align="center">I love busting nuts ✨</h1>
-[(http://github-readme-streak-stats.herokuapp.com?user=deltagamingch&theme=dark&background=000000)](https://git.io/streak-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=deltagamingch
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
