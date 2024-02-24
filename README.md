@@ -5,8 +5,8 @@
 ## Technologies  
 **Database**
 
-![](https://skillicons.dev/icons?i=mysql)
-<br>
+![](https://skillicons.dev/icons?i=mysql) <br>
+
 
 **Web Development**
 
