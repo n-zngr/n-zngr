@@ -2,20 +2,26 @@
 <br>
 
 
-<h2>Technologies</h2>  
+<h2>Technologies</h2>
 <b>Database</b>
 <img src="https://skillicons.dev/icons?i=mysql"/>
-
+    <div class="container" display="flex">
+        <div class="column">
+            <h2>Column 1</h2>
+            <p>Data 1</p>
+            <p>Data 3</p>
+        </div>
+        <div class="column">
+            <h2>Column 2</h2>
+            <p>Data 2</p>
+            <p>Data 4</p>
+        </div>
+    </div>
 
 <b>Web Development</b>
 
 ![](https://skillicons.dev/icons?i=html,css,js,nodejs)
 
-
-| Column 1 | Column 2 |
-|----------|----------|
-| Data 1   | Data 2   |
-| Data 3   | Data 4   |
 
 **Object-Oriented Programming**
 
