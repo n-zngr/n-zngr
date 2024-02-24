@@ -5,6 +5,11 @@
 <br>
 <h3>Technologies</h3><br>
 <div>
+
+  <details open>
+  <summary><h4>RTest</h4></summary>
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  </details>
   <details open>
   <summary><h4>Database</h4></summary>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
