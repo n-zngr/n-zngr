@@ -12,6 +12,11 @@
 ![](https://skillicons.dev/icons?i=html,css,js,nodejs)
 
 
+| Column 1 | Column 2 |
+|----------|----------|
+| Data 1   | Data 2   |
+| Data 3   | Data 4   |
+
 **Object-Oriented Programming**
 
 ![](https://skillicons.dev/icons?i=cs)
