@@ -3,6 +3,7 @@
 
 ## Technologies  
 **Database**
+
 ![](https://skillicons.dev/icons?i=mysql)
 <br>
 <h3>Web Development</h3>
