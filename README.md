@@ -8,7 +8,7 @@
 | :----------------: | :---------------------------------------------------: |
 |     `ableton`      |    <img src="./icons/Ableton-Dark.svg" width="48">    |
 |   `activitypub`    |  <img src="./icons/ActivityPub-Dark.svg" width="48">  |
-|      `actix`       |     <img src="https://skillicons.dev/icons?i=cs"/>     |
+|      `actix`       |     <img src="https://skillicons.dev/icons?i=cs" height="48"/>     |
 
 
 <div align="center">
