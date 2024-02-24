@@ -12,5 +12,8 @@
 <br><br>
  <h2>Statistics</h2><br>
 <div align="center">
- 
+ ```md
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+```
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight)
