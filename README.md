@@ -4,6 +4,9 @@
 <h3>Database</h3>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 <br>
+<h3>Web Development</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
+<br>
 <details open>
  <summary><h4>Database</h4></summary>
  <img src="https://skillicons.dev/icons?i=mysql"/>
