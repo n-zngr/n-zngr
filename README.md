@@ -3,7 +3,7 @@
 
 
 <br>
-<h3>Technologies</h3><br>
+<h3>Technologies</h3>
 <details open>
 <summary><h4>Database</h4></summary>
   <img src="https://skillicons.dev/icons?i=mysql"/>
