@@ -8,7 +8,7 @@
 ![](https://skillicons.dev/icons?i=mysql)
 
 **Web Development**
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
+![](https://skillicons.dev/icons?i=html,css,js,nodejs)
 
 
 ## Statistics
