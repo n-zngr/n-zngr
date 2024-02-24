@@ -7,15 +7,6 @@
 <h3>Web Development</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
 <br>
-<details open>
- <summary><h4>Database</h4></summary>
- <img src="https://skillicons.dev/icons?i=mysql"/>
-</details>
-<details open>
- <summary><h4>Web Development</h4></summary>
- <img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
-</details>
-<br><br>
  <h2>Statistics</h2><br>
 <div align="center">
  
