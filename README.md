@@ -2,10 +2,10 @@
 <br>
 
 
-## Technologies  
-**Database**
+<h2>Technologies</h2>  
+<b>Database</b>
 
-![](https://skillicons.dev/icons?i=mysql) <br><br>
+<img src="https://skillicons.dev/icons?i=mysql"/> <br><br>
 
 
 **Web Development**
