@@ -1,6 +1,6 @@
 <h1 align="center">I love busting nuts ✨</h1>
 <br>
-
+If you see this, I'm still working on it.
 
 <h2>Technologies</h2>
 
