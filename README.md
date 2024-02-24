@@ -9,7 +9,7 @@
     
   <img src="https://skillicons.dev/icons?i=mysql"/>
   
-  <b>Web Development</b><img height="18px" src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
+  <h3>Web Development <img height="18px" src="https://skillicons.dev/icons?i=html,css,js,nodejs"/></h3>
   
   <b>Object-Oriented Programming</b>
     
