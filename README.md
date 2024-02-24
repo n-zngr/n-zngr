@@ -15,7 +15,7 @@
 
 **Object-Oriented Programming**
 
-![](https://skillicons.dev/icons?i=html,css,js,nodejs)
+![](https://skillicons.dev/icons?i=cs)
 
 ## Statistics
 <div align="center">
