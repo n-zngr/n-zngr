@@ -8,7 +8,7 @@
 
   <details open>
   <summary><h4>RTest</h4></summary>
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
   </details>
   <details open>
   <summary><h4>Database</h4></summary>
