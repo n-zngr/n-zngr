@@ -15,7 +15,7 @@ If you see this, I'm still working on it.
     
   <img src="https://skillicons.dev/icons?i=mysql"/>
   
-  <h3>Web Development <img height="16px" vertical-align="text-top" src="https://skillicons.dev/icons?i=html,css,js,nodejs"/></h3>
+  <h3>Web Development <img height="32px" vertical-align="text-top" src="https://skillicons.dev/icons?i=html,css,js,nodejs"/></h3>
   
   <b>Object-Oriented Programming</b>
     
