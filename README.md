@@ -9,8 +9,6 @@ If you see this, I'm still working on it.
 |<img src="https://skillicons.dev/icons?i=js" height="48"/>|<img src="https://skillicons.dev/icons?i=cs" height="48"/>|test | test |
 
 
-https://www.ernstlx.com/linux90bash.html
-
 <div align="center">
   
   <b>Database</b>
