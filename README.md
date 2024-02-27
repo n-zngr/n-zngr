@@ -7,10 +7,17 @@ If you see this, I'm still working on it.
 |<img src="https://skillicons.dev/icons?i=html" alignment="center" height="48"/>|<img src="./icons/Ableton-Dark.svg" width="48">| test | test |
 |<img src="https://skillicons.dev/icons?i=css" height="48"/>|<img src="./icons/ActivityPub-Dark.svg" width="48">| Test| test |
 |<img src="https://skillicons.dev/icons?i=js" height="48"/>|<img src="https://skillicons.dev/icons?i=cs" height="48"/>|test |<img src="https://skillicons.dev/icons?i=bash" height="48"/>|
+
+
 <details>
-<summary>Web Development</summary>
-  - Nuts
+<summary><h3>Web Development</h3></summary>
+  - HTML
+  - CSS
+  - JS
+  - NodeJS
 </details>
+
+
 <div align="center">
   
   <b>Database</b>
