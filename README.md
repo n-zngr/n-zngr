@@ -10,7 +10,7 @@ If you see this, I'm still working on it.
 
 
 <details>
-<summary><h3>Web Development</h3></summary>
+<summary><b>Web Development</b></summary>
   - HTML
   - CSS
   - JS
