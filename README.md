@@ -12,7 +12,7 @@ If you see this, I'm still working on it.
 
 
 | `Other` | `Software`|
-| -- | -- | -- |
+| -- | -- | 
 |`Game Development`|<img src="https://skillicons.dev/icons?i=robloxstudio"/>|
 |`Web Design`|<img src="https://skillicons.dev/icons?i=figma"/>|
 |`Communications`|<img src="https://skillicons.dev/icons?i=discord"/>|
