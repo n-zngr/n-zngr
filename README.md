@@ -8,7 +8,7 @@ If you see this, I'm still working on it.
 |`Object-Oriented`|<img src="https://skillicons.dev/icons?i=cs,java"/>|<img src="https://skillicons.dev/icons?i=visualstudio"/>|
 |`Database`|<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>||
 |`Cloud & Networking`|<img src="https://skillicons.dev/icons?i=bash,linux"/>|<img src="https://skillicons.dev/icons?i=aws,ubuntu"/>|
-|`Also Familiar With`|<img src="https://skillicons.dev/icons?i=git,robloxstudio"/>||
+|`Also Familiar With`|<img src="https://skillicons.dev/icons?i=git"/>|<img src="https://skillicons.dev/icons?i=robloxstudio"/>|
 
 <details>
 <summary><b>Web Development</b></summary>
