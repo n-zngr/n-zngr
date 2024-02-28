@@ -4,8 +4,8 @@ If you see this, I'm still working on it.
 
 | `Category` | `Technology` | `Software` |
 | -- | -- | -- |
-|`Web Development`|<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&perline=4"/>|-|
-|`Object-Oriented`|<img src="https://skillicons.dev/icons?i=cs,java&perline=2"/>|<img src="https://skillicons.dev/icons?i=vs"/>|
+|`Web Development`|<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&perline=4"/>|<img src="https://skillicons.dev/icons?i=vscode"/>|
+|`Object-Oriented`|<img src="https://skillicons.dev/icons?i=cs,java&perline=2"/>|<img src="https://skillicons.dev/icons?i=visualstudio"/>|
 |`Database`|<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3"/>|-|
 |`Linux`|<img src="https://skillicons.dev/icons?i=bash&perline=3"/>|
 
