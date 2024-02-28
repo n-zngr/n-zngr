@@ -2,7 +2,7 @@ If you see this, I'm still working on it.
 
 <h2>Technologies</h2>
 
-| `Web Development` | `Object-Oriented Programming` | `Database` | `Linux` |
+| `Web Development` | `Object-Oriented` | `Database` | `Linux` |
 | -- | -- | -- | -- |
 |<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&perline=4"/>|<img src="https://skillicons.dev/icons?i=cs,java&perline=2"/>|<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3"/>|<img src="https://skillicons.dev/icons?i=bash&perline=3"/>|
 
