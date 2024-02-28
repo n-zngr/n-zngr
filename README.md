@@ -11,13 +11,6 @@ If you see this, I'm still working on it.
 |`Game Development`|<img src="https://skillicons.dev/icons?i=lua"/>|<img src="https://skillicons.dev/icons?i=robloxstudio"/>|
 |`Project Management`||<img src="https://skillicons.dev/icons?i=azure,notion"/>|
 
-  
-<details>
-<summary><b>Web Development</b></summary>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&perline=3"/>
-</details>
-
-
 ## Statistics
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight"/>
