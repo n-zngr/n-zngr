@@ -33,9 +33,6 @@ If you see this, I'm still working on it.
 
 </div>
 
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" alignment="center" height="48" perline="3"/>
-
 ## Statistics
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight"/>
