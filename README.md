@@ -4,8 +4,8 @@ If you see this, I'm still working on it.
 
 | `Web Development` | `Object-Oriented` | `Database` |
 | -- | -- | -- |
-|<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&perline=4"/>|<img src="https://skillicons.dev/icons?i=cs,java&perline=2"/>|<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3"/>|<img src="https://skillicons.dev/icons?i=bash&perline=3"/>|
-|`Web Development`| test | test |
+|test|<img src="https://skillicons.dev/icons?i=cs,java&perline=2"/>|<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3"/>|<img src="https://skillicons.dev/icons?i=bash&perline=3"/>|
+|`Web Development`|<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&perline=4"/>| test |
 
 
 
