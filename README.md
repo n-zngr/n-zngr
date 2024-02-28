@@ -18,24 +18,6 @@ If you see this, I'm still working on it.
 </details>
 
 
-<div align="center">
-  
-  <b>Database</b>
-    
-  <img src="https://skillicons.dev/icons?i=mysql"/>
-  
-  <h3>Web Development <img height="32px" src="https://skillicons.dev/icons?i=html,css,js,nodejs"/></h3>
-  
-  <b>Object-Oriented Programming</b>
-    
-  <img src="https://skillicons.dev/icons?i=cs"/>
-  
-  <b>Other</b>
-    
-  <img src="https://skillicons.dev/icons?i=java"/>
-
-</div>
-
 ## Statistics
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight"/>
