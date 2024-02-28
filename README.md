@@ -9,6 +9,7 @@ If you see this, I'm still working on it.
 |`Database`|<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>||
 |`Cloud & Networking`|<img src="https://skillicons.dev/icons?i=bash,linux"/>|<img src="https://skillicons.dev/icons?i=aws,ubuntu"/>|
 |`Other`|<img src="https://skillicons.dev/icons?i=git"/>
+| `Category` | `Technology` | `Environment` |
 
 
 
