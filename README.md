@@ -1,6 +1,6 @@
 If you see this, I'm still working on it.
 
-<h2>Technologies <img height="32px" src="https://skillicons.dev/icons?i=html,css,js,nodejs"/></h2>
+<h2>Technologies</h2>
 
 | `Web Development` | `Object-Oriented Programming` | `Database` | `Other` |
 | -- | -- | -- | -- |
