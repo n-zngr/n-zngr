@@ -5,7 +5,7 @@ If you see this, I'm still working on it.
   
 | `Category` | `Technology` | `Environment` |
 | -- | -- | -- |
-|`Web Development`|<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&perline=2"/>|<img src="https://skillicons.dev/icons?i=vscode,figma,replit&perline=2"/>|
+|`Web Development`|<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&perline=3"/>|<img src="https://skillicons.dev/icons?i=vscode,figma,replit&perline=2"/>|
 |`Object-Oriented`|<img src="https://skillicons.dev/icons?i=cs,java"/>|<img src="https://skillicons.dev/icons?i=visualstudio,eclipse"/>|
 |`Database`|<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>||
 |`Cloud & Networking`|<img src="https://skillicons.dev/icons?i=aws,ubuntu"/>|<img src="https://skillicons.dev/icons?i=linux,bash"/>|
