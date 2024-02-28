@@ -9,7 +9,7 @@ If you see this, I'm still working on it.
 |`Database`|<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>||
 |`Cloud & Networking`|<img src="https://skillicons.dev/icons?i=bash,linux"/>|<img src="https://skillicons.dev/icons?i=aws,ubuntu"/>|
 |`Also Familiar With`|<img src="https://skillicons.dev/icons?i=lua"/>|<img src="https://skillicons.dev/icons?i=robloxstudio"/>|
-|`Project Management`|<img src="https://skillicons.dev/icons?i=azure"/>|<img src="https://skillicons.dev/icons?i=azure"/>|
+|`Project Management`||<img src="https://skillicons.dev/icons?i=azure,notion"/>|
 
   
 <details>
