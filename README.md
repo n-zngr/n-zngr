@@ -2,6 +2,7 @@ If you see this, I'm still working on it.
 
 <h2>Technologies & Software</h2>
 <div align="center">
+  
 | `Category` | `Technology` | `Environment` |
 | -- | -- | -- |
 |`Web Development`|<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&perline=2"/>|<img src="https://skillicons.dev/icons?i=vscode,figma,replit&perline=2"/>|
@@ -10,6 +11,7 @@ If you see this, I'm still working on it.
 |`Cloud & Networking`|<img src="https://skillicons.dev/icons?i=aws,ubuntu"/>|<img src="https://skillicons.dev/icons?i=linux,bash"/>|
 |`Game Development`|<img src="https://skillicons.dev/icons?i=lua"/>|<img src="https://skillicons.dev/icons?i=robloxstudio"/>|
 |`Project Management`||<img src="https://skillicons.dev/icons?i=azure,notion"/>|
+
 </div>
 
 ## Statistics
