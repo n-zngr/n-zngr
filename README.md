@@ -2,11 +2,12 @@ If you see this, I'm still working on it.
 
 <h2>Technologies & Software</h2>
 
-| `Category` | `Language` | `Software` |
+| `Category` | `Skills` | `Software` |
 | -- | -- | -- |
-|test|<img src="https://skillicons.dev/icons?i=cs,java&perline=2"/>||<img src="https://skillicons.dev/icons?i=bash&perline=3"/>|
+|test|<img src="https://skillicons.dev/icons?i=cs,java&perline=2"/>|||
 |`Web Development`|<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&perline=4"/>| test |
 |`Database`|<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3"/>|-|
+|`Linux`|<img src="https://skillicons.dev/icons?i=bash&perline=3"/>|
 
 
 
