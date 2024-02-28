@@ -4,7 +4,7 @@ If you see this, I'm still working on it.
 
 | `Web Development` | `Object-Oriented Programming` | `Database` | `Other` |
 | -- | -- | -- | -- |
-|<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode&perline=4"/>|<img src="https://skillicons.dev/icons?i=cs,java,visualstudio&perline=2"/>|<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3"/>| test |
+|<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode&perline=4"/>|<img src="https://skillicons.dev/icons?i=cs,java,visualstudio,eclipse&perline=2"/>|<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3"/>| test |
 |<img src="https://skillicons.dev/icons?i=css" height="48"/>|<img src="./icons/ActivityPub-Dark.svg" width="48">| Test| test |
 |<img src="https://skillicons.dev/icons?i=js" height="48"/>|<img src="https://skillicons.dev/icons?i=cs" height="48"/>|test |<img src="https://skillicons.dev/icons?i=bash" height="48"/>|
 
