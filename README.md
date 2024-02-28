@@ -11,7 +11,7 @@ If you see this, I'm still working on it.
 
 <details>
 <summary><b>Web Development</b></summary>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&perline=3"</>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&perline=3"/>
 </details>
 
 
