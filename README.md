@@ -7,7 +7,7 @@ If you see this, I'm still working on it.
 |`Web Development`|<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&perline=4"/>|<img src="https://skillicons.dev/icons?i=vscode"/>|
 |`Object-Oriented`|<img src="https://skillicons.dev/icons?i=cs,java&perline=2"/>|<img src="https://skillicons.dev/icons?i=visualstudio"/>|
 |`Database`|<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3"/>||
-|`Cloud & Networking`|<img src="https://skillicons.dev/icons?i=bash"/>|<img src="https://skillicons.dev/icons?i=aws,ubuntu"/>|
+|`Cloud & Networking`|<img src="https://skillicons.dev/icons?i=bash,linux"/>|<img src="https://skillicons.dev/icons?i=aws,ubuntu"/>|
 |`Other`|<img src="https://skillicons.dev/icons?i=git"/>
 
 
