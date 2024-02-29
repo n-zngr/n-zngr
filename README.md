@@ -1,7 +1,7 @@
 Software Engineer Student in Switzerland. 
 
 <h2>Technologies & Software</h2>
-
+<br>
 
 <div align="center">
   
@@ -16,6 +16,7 @@ Software Engineer Student in Switzerland.
 
 </div>
 
+<br>
 ## Statistics
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight"/>
