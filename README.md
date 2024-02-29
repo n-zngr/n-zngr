@@ -1,4 +1,4 @@
-If you see this, I'm still working on it.
+Software Engineer Student in Switzerland. 
 
 <h2>Technologies & Software</h2>
 
