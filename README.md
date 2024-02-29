@@ -17,7 +17,9 @@ Software Engineer Student in Switzerland.
 </div>
 
 <br>
-## Statistics
+
+<h2>Statistics</h2>
+<br>
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight"/>
 </div>
