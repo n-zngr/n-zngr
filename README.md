@@ -1,11 +1,13 @@
 Software Engineer Student in Switzerland. 
 
 <h2>Technologies & Software</h2>
-Technologies and software I have experience in. 
 
-<br><br>
+
+<br>
 
 <div align="center">
+Technologies and software I have experience in. 
+<br>
   
 | `Category` | `Technology` | `Software & IDE` |
 | -- | -- | -- |
