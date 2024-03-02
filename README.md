@@ -5,7 +5,7 @@ Software Engineer Student in Switzerland.
 
 <div align="center">
   
-| `Category` | `Technology` | `Software` |
+| `Category` | `Technology` | `Software & IDE` |
 | -- | -- | -- |
 |`Web Development`|<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&perline=2"/>|<img src="https://skillicons.dev/icons?i=vscode,figma,replit&perline=2"/>|
 |`Object-Oriented`|<img src="https://skillicons.dev/icons?i=cs,java"/>|<img src="https://skillicons.dev/icons?i=visualstudio,eclipse"/>|
