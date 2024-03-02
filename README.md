@@ -12,7 +12,7 @@ Software Engineer Student in Switzerland.
 |`Database`|<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>||
 |`Cloud & Networking`|<img src="https://skillicons.dev/icons?i=aws,ubuntu"/>|<img src="https://skillicons.dev/icons?i=linux,bash"/>|
 |`Game Development`|<img src="https://skillicons.dev/icons?i=lua"/>|<img src="https://skillicons.dev/icons?i=robloxstudio"/>|
-|`Project Management`||<img src="https://skillicons.dev/icons?i=azure,notion"/>|
+|`Project Management`|`Kanban` <br> `Scrum`|<img src="https://skillicons.dev/icons?i=azure,notion"/>|
 
 </div>
 
