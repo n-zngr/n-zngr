@@ -7,7 +7,7 @@ Software Engineer Student in Switzerland.
 
 <div align="center">
 Technologies and software I have experience in. 
-<br>
+<br><br>
   
 | `Category` | `Technology` | `Software & IDE` |
 | -- | -- | -- |
