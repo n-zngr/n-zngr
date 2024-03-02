@@ -2,6 +2,7 @@ Software Engineer Student in Switzerland.
 
 <h2>Technologies & Software</h2>
 Technologies and software I have experience in. 
+
 <br>
 
 <div align="center">
