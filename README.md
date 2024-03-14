@@ -18,14 +18,6 @@ Technologies and software I have experience with.
 |`Game Development`|<img src="https://skillicons.dev/icons?i=lua"/>|<img src="https://skillicons.dev/icons?i=robloxstudio"/>|
 |`Project Management`|`Agile` `Kanban` <br> `Scrum`|<img src="https://skillicons.dev/icons?i=azure,notion"/>|
 <br><br>
-
-I also enjoy doing creative work, like graphics, logos, or mockups. 
-<br><br>
-| `Creative` | `Software` |
-| -- | -- |
-|`UI & UX Mockups`|<img src="https://skillicons.dev/icons?i=figma,xd&perline=2"/>|
-|`Graphics & Logos`|<img src="https://skillicons.dev/icons?i=ps,figma&perline=2"/>|
-|`Picture Editing`|<img src="https://skillicons.dev/icons?i=ps&perline=2"/>|
 </div>
 
 <br>
