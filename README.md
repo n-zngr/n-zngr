@@ -22,7 +22,7 @@ Technologies and software I have experience with.
 I also enjoy doing creative work, like graphics, logos, or mockups. 
 <br><br>
 | `Creative` | `Software` |
-| -- | -- | -- |
+| -- | -- |
 |`UI & UX Mockups`|<img src="https://skillicons.dev/icons?i=figma,adobexd&perline=2"/>|
 |`Graphics & Logos`|<img src="https://skillicons.dev/icons?i=vscode,figma&perline=2"/>|
 |`Picture Editing`|<img src="https://skillicons.dev/icons?i=gimp&perline=2"/>|
