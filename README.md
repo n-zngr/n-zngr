@@ -17,10 +17,8 @@ Technologies and software I have experience with.
 |`Cloud & Networking`|<img src="https://skillicons.dev/icons?i=aws,ubuntu"/>|<img src="https://skillicons.dev/icons?i=linux,bash"/>|
 |`Game Development`|<img src="https://skillicons.dev/icons?i=lua"/>|<img src="https://skillicons.dev/icons?i=robloxstudio"/>|
 |`Project Management`|`Agile` `Kanban` <br> `Scrum`|<img src="https://skillicons.dev/icons?i=azure,notion"/>|
-<br><br>
 </div>
-
-<br>
+<br><br>
 
 <h2>Statistics</h2>
 <br>
