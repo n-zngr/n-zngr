@@ -24,5 +24,6 @@ Technologies and software I have experience with.
 <br>
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight"/>
-<img src="thttp://github-profile-summary-cards.vercel.app/api/cards/stats?username=deltagamingch&theme=tokyonight"/>
+  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deltagamingch&theme=tokyonight"/>
 </div>
