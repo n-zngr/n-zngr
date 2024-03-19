@@ -6,7 +6,7 @@ Software Engineer Student in Switzerland.
 <br>
 
 <div align="center">
-This is my little achievement board filled with technologies and software I have previous experience in or toyed around with.  
+Technologies and software I have experience with. 
 <br><br>
   
 | `Category` | `Technology` | `Software & IDE` |
