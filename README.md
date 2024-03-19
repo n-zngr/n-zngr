@@ -20,8 +20,9 @@ Technologies and software I have experience with.
 </div>
 <br><br>
 
-<h2>Statistics</h2>
+<!--<h2>Statistics</h2>
 <br>
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight"/>
 </div>
+-->
