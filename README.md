@@ -1,4 +1,4 @@
-![image](https://github.com/DeltaGamingCH/deltagamingch/assets/88480788/548227b3-279d-4bf9-8f76-be1b5705dc54)Software Engineer Student in Switzerland. 
+Software Engineer Student in Switzerland. 
 
 <h2>Technologies & Software</h2>
 
