@@ -1,4 +1,4 @@
-Software Engineer Student in Switzerland. 
+![image](https://github.com/DeltaGamingCH/deltagamingch/assets/88480788/548227b3-279d-4bf9-8f76-be1b5705dc54)Software Engineer Student in Switzerland. 
 
 <h2>Technologies & Software</h2>
 
@@ -11,7 +11,8 @@ Technologies and software I have experience with.
   
 | `Category` | `Technology` | `Software & IDE` |
 | -- | -- | -- |
-|`Web Development`|<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,jest&perline=2"/>|<img src="https://skillicons.dev/icons?i=vscode,figma,replit&perline=2"/>|
+|`Frontend`|<img src="https://skillicons.dev/icons?i=html,css,js&perline=2"/>|<img src="https://skillicons.dev/icons?i=vscode,figma&perline=2"/>|
+|`Backend`|<img src="https://skillicons.dev/icons?i=nodejs,express,jest&perline=2"/>|<img src="https://skillicons.dev/icons?i=vscode,replit&perline=2"/>|
 |`Object-Oriented`|<img src="https://skillicons.dev/icons?i=cs,java"/>|<img src="https://skillicons.dev/icons?i=visualstudio,eclipse"/>|
 |`Database`|<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>||
 |`Cloud & Networking`|<img src="https://skillicons.dev/icons?i=aws,ubuntu,cloudflare&perline=2"/>|<img src="https://skillicons.dev/icons?i=linux,bash"/>|
