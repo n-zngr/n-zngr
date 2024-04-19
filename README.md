@@ -21,6 +21,16 @@ Technologies and software I have experience with.
 </div>
 <br><br>
 
+
+## Current Projects
+<div align="center">
+I am currently working on following projects.
+
+- [Financez](https://github.com/DeltaGaminCH/Financez)
+- [ZNGR DYNAMICS (Portfolio)](https://github.com/DeltaGamingCH/ZNGR-DYNAMICS)
+- [Delta Gamez, Connect](https://github.com/Delta-Gamez/Connect)
+</div>
+
 <!--<h2>Statistics</h2>
 <br>
 <div align="center">
