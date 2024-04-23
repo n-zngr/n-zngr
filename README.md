@@ -13,7 +13,7 @@ Technologies and software I have experience with.
 | -- | -- | -- |
 |`Frontend`|<img src="https://skillicons.dev/icons?i=html,css,js&perline=2"/>|<img src="https://skillicons.dev/icons?i=vscode,figma&perline=2"/>|
 |`Backend`|<img src="https://skillicons.dev/icons?i=nodejs,express,jest&perline=2"/>|<img src="https://skillicons.dev/icons?i=vscode,replit&perline=2"/>|
-|`Object-Oriented`|<img src="https://skillicons.dev/icons?i=cs,java"/>|<img src="https://skillicons.dev/icons?i=visualstudio,eclipse"/>|
+|`Object-Oriented`|<img src="https://skillicons.dev/icons?i=cs,java"/>|<img src="https://skillicons.dev/icons?i=visualstudio,eclipse,intellij"/>|
 |`Database`|<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>||
 |`Cloud & Networking`|<img src="https://skillicons.dev/icons?i=aws,ubuntu,cloudflare&perline=2"/>|<img src="https://skillicons.dev/icons?i=linux,bash"/>|
 |`Game Development`|<img src="https://skillicons.dev/icons?i=lua"/>|<img src="https://skillicons.dev/icons?i=robloxstudio"/>|
