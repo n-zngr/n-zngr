@@ -2,7 +2,7 @@
 > Passionate Full-Stack developer.
 
 ## Tech
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,jest,cs,java,maven,mysql,mongodb,docker,cloudflare,ubuntu,linux,bash,replit,aws,lua,robloxstudio,azure,notion"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,jest,c,cs,java,maven,mysql,mongodb,docker,cloudflare,linux,bash,replit,aws,lua,robloxstudio,azure,notion,figma,ps"/>
 <br><br>
 
 ## Stats
