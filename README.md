@@ -6,4 +6,4 @@
 <br><br>
 
 ## Stats
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DeltaGamingCH&theme=dark)](https://git.io/streak-stats)
