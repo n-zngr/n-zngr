@@ -1,38 +1,32 @@
 Software Engineer Student in Switzerland. 
 
-<h2>Technologies & Software</h2>
 
-
-<br>
-
-<div align="center">
-Technologies and software I have experience with. 
-<br><br>
-  
-| `Category` | `Technology` | `Software & IDE` |
-| -- | -- | -- |
-|`Frontend`|<img src="https://skillicons.dev/icons?i=html,css,js&perline=2"/>|<img src="https://skillicons.dev/icons?i=vscode,figma&perline=2"/>|
-|`Backend`|<img src="https://skillicons.dev/icons?i=nodejs,express,jest&perline=2"/>|<img src="https://skillicons.dev/icons?i=vscode,replit&perline=2"/>|
-|`Object-Oriented`|<img src="https://skillicons.dev/icons?i=cs,java,maven&perline=2"/>|<img src="https://skillicons.dev/icons?i=visualstudio,eclipse,idea&perline=2"/>|
-|`Database`|<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>||
-|`Cloud & Networking`|<img src="https://skillicons.dev/icons?i=aws,ubuntu,cloudflare,docker&perline=2"/>|<img src="https://skillicons.dev/icons?i=linux,bash&perline=2"/>|
-|`Game Development`|<img src="https://skillicons.dev/icons?i=lua"/>|<img src="https://skillicons.dev/icons?i=robloxstudio"/>|
-|`Project Management`|`Agile` `Kanban` <br> `Scrum`|<img src="https://skillicons.dev/icons?i=azure,notion"/>|
-</div>
+## Tech & Software
 <br><br>
 
-<!--
-## Current Projects
-I am currently working on following projects.
 
-- [Financez](https://github.com/DeltaGaminCH/Financez)
-- [ZNGR DYNAMICS (Portfolio)](https://github.com/DeltaGamingCH/ZNGR-DYNAMICS)
-- [Delta Gamez, Connect](https://github.com/Delta-Gamez/Connect)
--->
-
-<!--<h2>Statistics</h2>
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma"/>
 <br>
-<div align="center">
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,jest,vscode,replit"/>
+<br>
+### Object-Oriented
+<img src="https://skillicons.dev/icons?i=cs,java,maven,visualstudio,eclipse,idea"/>
+<br>
+### Database
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<br>
+### Cloud & Networking
+<img src="https://skillicons.dev/icons?i=aws,ubuntu,cloudflare,docker,linux,bash"/>
+<br>
+### Game Development
+<img src="https://skillicons.dev/icons?i=lua,robloxstudio"/>
+<br>
+### Workflow
+`Agile` `Kanban` <br> `Scrum` <img src="https://skillicons.dev/icons?i=azure,notion"/>
+<br>
+
+## Stats
+<br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltagamingch&theme=tokyonight"/>
-</div>
--->
