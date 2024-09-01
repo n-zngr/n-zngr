@@ -1,4 +1,4 @@
-> Software Engineer Student in Switzerland. 
+> Software Engineer Student in Switzerland. <br>
 > Passionate Full-Stack developer.
 
 ## Tech
