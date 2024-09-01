@@ -1,34 +1,30 @@
 Software Engineer Student in Switzerland. 
 
 
-## Tech & Software
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma"/>
-
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,jest,vscode,replit"/>
-
-
-### Object-Oriented
-<img src="https://skillicons.dev/icons?i=cs,java,maven,visualstudio,eclipse,idea"/>
-
-
-### Database
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-
-### Cloud & Networking
-<img src="https://skillicons.dev/icons?i=aws,ubuntu,cloudflare,docker,linux,bash"/>
-
-
-### Game Development
-<img src="https://skillicons.dev/icons?i=lua,robloxstudio"/>
-
-
-### Workflow
-`Agile` `Kanban` <br> `Scrum` <img src="https://skillicons.dev/icons?i=azure,notion"/>
-
+## Tech
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=express"/>
+<img src="https://skillicons.dev/icons?i=jest"/>
+<img src="https://skillicons.dev/icons?i=cs"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=maven"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=cloudflare"/>
+<img src="https://skillicons.dev/icons?i=ubuntu"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=bash"/>
+<img src="https://skillicons.dev/icons?i=replit"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=lua"/>
+<img src="https://skillicons.dev/icons?i=robloxstudio"/>
+<img src="https://skillicons.dev/icons?i=azure"/>
+<img src="https://skillicons.dev/icons?i=notion"/>
+<br><br>
 
 ## Stats
 <br>
