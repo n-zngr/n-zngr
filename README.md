@@ -2,8 +2,8 @@ Software Engineer Student in Switzerland.
 
 
 ## Tech
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,jesat,cs,java,maven,mysql,mongodb,docker,cloudflare,ubuntu,linux,bash,replit,aws,lua,robloxstudio,azure,notion"/>
+<img src="https://skillicons.dev/icons?i="/>
 <img src="https://skillicons.dev/icons?i=js"/>
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 <img src="https://skillicons.dev/icons?i=express"/>
