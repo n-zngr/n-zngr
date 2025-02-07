@@ -6,7 +6,6 @@
 
 <details>
 <summary><b>More tools used across projects</b></summary>
-
-
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,java,maven,php,mysql,jest,postman,cs,dotnet,docker,cloudflare,aws,linux,bash,replit,lua,robloxstudio,azure,ps,xd"/>
 </details>
